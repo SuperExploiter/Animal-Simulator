@@ -86,7 +86,7 @@ elseif game.PlaceId == 2377868063 then
 elseif game.PlaceId == 1962086868 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/TOH"))()
 elseif game.PlaceId == 5712833750 then
-    loadstring(game:HttpGet("https://pastebin.com/raw/h3pD9gMF"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperExploiter/animaaal/main/pougd"))()
 elseif game.PlaceId == 5648523896 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Trenches"))()
 elseif game.PlaceId == 2248408710 then
