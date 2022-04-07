@@ -59,6 +59,8 @@ elseif game.PlaceId == 5523314295 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Hellreaver"))()
 elseif game.PlaceId == 263761432 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/HorrificHousing"))()
+elseif game.PlaceId == 71315343 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperExploiter/DragonBallRage/main/prioness"))()
 elseif game.PlaceId == 606849621 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Jailbreak"))()
 elseif game.PlaceId == 621129760 then
